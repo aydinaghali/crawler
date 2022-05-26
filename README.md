@@ -1,4 +1,4 @@
-# A simple crawler
+# A simple web crawler
 
 Run using
 `python3 ./crawl.py`

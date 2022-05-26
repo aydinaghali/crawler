@@ -1,1 +1,3 @@
+# A simple crawler
 
+Run with `python3 ./crawl.py`. Edit source for search root and output file.
